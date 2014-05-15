@@ -1,4 +1,4 @@
-package omp.exemplos;
+package omp.simple;
 
 import jomp.runtime.OMP;
 
